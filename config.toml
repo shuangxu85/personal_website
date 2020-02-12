@@ -6,7 +6,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-    themeStyle                   = "light"                 # Choose "light" or "dark"
+    themeStyle                   = "dark"                 # Choose "light" or "dark"
     favicon                      = "/img/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
@@ -43,7 +43,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://facebook.com/"
+        url   = "https://www.google.com/"
         icon  = "facebook-f" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
