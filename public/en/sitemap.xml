@@ -294,6 +294,11 @@
   </url>
   
   <url>
+    <loc>/home/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/no-date/</loc>
   </url>
   
